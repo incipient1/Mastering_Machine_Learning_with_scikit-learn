@@ -1,4 +1,4 @@
-# ![Mastering Machine Learning with scikit-learn - Second Edition](https://book.douban.com/subject/27114766/)
+# [Mastering Machine Learning with scikit-learn - Second Edition](https://book.douban.com/subject/27114766/)
 
 关于sklearn中一些主要模型的介绍，包括：脚本、模型背后简单的数学原理、案例，非常适合通过sklearn入门机器学习。章节包括：<br>
 1. 机器学习概述<br>
